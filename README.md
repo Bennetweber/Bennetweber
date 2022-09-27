@@ -13,5 +13,5 @@
 ## 📸 Social
 - [Twitter](https://twitter.com/weber_floyd)
 - [Linkedin](https://www.linkedin.com/in/bennet-weber-a2ab8521a/)
-- [Instagram](https://www.instagram.com/i_bennet_se/)
+- [Instagram](https://www.instagram.com/error_204_no_content/)
 
