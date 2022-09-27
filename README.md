@@ -8,6 +8,7 @@
 - former Mac fanboy today's linux user
 ## 🛠 Skills
 - python 3 with a focus on nlp and api development with fastapi
+- SQL fundamentals
 - Swift and SwiftUI fundamentals
 
 ## 📸 Social
