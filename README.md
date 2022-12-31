@@ -17,4 +17,4 @@
 
 ## Activity Graph
 I'm not really an active github user
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bennetweber&bg_color=000000&color=364449&line=2c4181&point=1b2441&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bennetweber&theme=dark)](https://git.io/streak-stats)
