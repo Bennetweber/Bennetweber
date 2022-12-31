@@ -15,7 +15,7 @@
 - [Twitter](https://twitter.com/weber_floyd)
 - [Linkedin](https://www.linkedin.com/in/bennet-weber-a2ab8521a/)
 
-## Activity Graph
+## my Activity
 I'm not really an active github user
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bennetweber&theme=dark)](https://git.io/streak-stats)
