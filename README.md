@@ -17,4 +17,5 @@
 
 ## Activity Graph
 I'm not really an active github user
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bennetweber&theme=dark)](https://git.io/streak-stats)
