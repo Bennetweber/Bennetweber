@@ -4,7 +4,6 @@
 
 
 - I'm 13 years old
-- open source supporter
 - technolgy liberalist
 ## 🛠 Skills
 - python 3 with a focus on nlp and api development with fastapi
