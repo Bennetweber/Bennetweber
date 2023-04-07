@@ -3,11 +3,12 @@
 
 
 
-- I'm 13 years old
+- I'm 14 years old
 - technolgy liberalist
 ## 🛠 Skills
 - python 3 with a focus on nlp and api development with fastapi
 - SQL fundamentals
+- javascript(React) fundamentals
 - Swift and SwiftUI fundamentals
 
 ## 📸 Social
