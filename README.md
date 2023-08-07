@@ -1,8 +1,5 @@
 # Hi, I'm Bennet👋
 
-
-
-
 - I'm 14 years old
 - technolgy liberalist
 ## 🛠 Skills
